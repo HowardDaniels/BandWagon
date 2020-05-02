@@ -1,6 +1,6 @@
 # BandWagon
 
-#### BandWagon Repo, 5/02/20
+#### BandWagon Repo, 05/02/20
 ​
 #### By Siavash Ashkiani, Eugene Edwards, Howard Daniels, Eric Sargeant, Earl Blue
 ​
